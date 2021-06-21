@@ -13,6 +13,7 @@ So she finally turned to the black market. She paid a hefty amount - 50,000 rupe
 This is a familiar story not just in Delhi but also in Noida, Lucknow, Allahabad, Indore and so many other cities where families are desperately cobbling together makeshift arrangements at home.
 
 But most of India's population cannot afford to do this. There are already several reports of people dying at the doorsteps of hospitals because they couldn't afford to buy essential drugs and oxygen on the black market.
+
 ### App Overview
 ![](app/src/main/res/mipmap-xxxhdpi/smartmockups_kp9bjp1y.jpg)
 
